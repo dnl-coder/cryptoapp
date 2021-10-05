@@ -75,26 +75,26 @@ a:hover{
 
 @media screen and (max-width:1300px){
   .main{
-    margin-left: 50px;
+      margin-left: 50px;
   }
 }
 
 @media screen and (max-width:1170px){
   .main{
-    margin-left: 50px;
+      margin-left: 50px;
   }
 }
 
 @media screen and (max-width:1000px){
   .main{
-    margin-left: 100px;
+      margin-left: 100px;
   }
 }
 
 @media screen and (max-width:800px){
   .app{
-    flex-direction: column;
-    overflow: hidden;
+      flex-direction: column;
+      overflow: hidden;
   }
 
   .navbar{
@@ -102,33 +102,33 @@ a:hover{
   }
 
   .main{
-    flex: 1;
-    margin-top: 90px;
-    margin-left: 0px;
-    margin-right: 10px;
+      flex: 1;
+      margin-top: 90px;
+      margin-left: 0px;
+      margin-right: 10px;
   }
 
   .nav-container{
-    height: 8vh;
-    position:fixed;
-    width: 100%;
-    z-index: 100;
-    background-color: var(--bgSecondary);
+      height: 8vh;
+      position:fixed;
+      width: 100%;
+      z-index: 100;
+      background-color: var(--bgSecondary);
   }
 
   .menu-control-container{
-    display: block !important;
+      display: block !important;
   }
 
   .ant-menu{
-    position: absolute;
-    right: 0px;
+      position: absolute;
+      right: 0px;
   }
   .home-title{
-    font-size: 1.4rem !important;
+      font-size: 1.4rem !important;
   }
   .show-more{
-    font-size: 1.3rem !important;
+      font-size: 1.3rem !important;
   }
 }
 
@@ -262,27 +262,27 @@ padding: 0px 20px;
 
 @media screen and (max-width:1000px){
   .stats-container{
-    flex-direction: column;
+      flex-direction: column;
   }
   .coin-desc-link{
-    flex-direction: column;
+      flex-direction: column;
   }
   .stats-container h2{
-    margin-top: 0px;
+      margin-top: 0px;
   }
 }
 
 @media screen and (max-width: 500px){
   .coin-links{
-    padding: 0px;
+      padding: 0px;
   }
   .coin-detail-container{
-    margin: 0;
+      margin: 0;
   }
 }
 @media screen and (max-width: 500px){
   .heading{
-    margin-top: 20px;
+      margin-top: 20px;
   }
 }
 
